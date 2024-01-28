@@ -24,8 +24,5 @@ In order to generate these visualizations accurately, I received help from my TA
 
 Capomulin performed competitively with Ramicane. Both Capomulin and Ramicane produced Mean Tumor Volumes of 40.675 and 40.217, respectively, compared to the next nearest regimen, Propriva, which had a Mean Tumor Volume of 52.320. Drug Regimens Ketapril, Naftisol, and Stelasyn all produced Mean Tumor Volumes which exceeded the numbers proceeded by the Placeebo.
 
-Explain the results of the analysis.
-
-
 ## Summary
-Conclusions of analysis and final words.
+Capomulin performed competitively with the most promising treatment regimen, significantly outperforming the remaining treatment regimens. The data demonstrates a decrease in tumor volume over the course of treatment. 
